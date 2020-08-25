@@ -13,3 +13,4 @@ Check out the live preview [here](link)!
 * https://editor.p5js.org/D_Snyder/sketches/gEBQa5elpY
 * https://thecodingtrain.com/CodingChallenges/143-quicksort
 * https://www.programiz.com/dsa/merge-sort
+* coolors.co
