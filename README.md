@@ -3,7 +3,7 @@
 ## Preview
 
 ![](image)
-Check out the live preview with the [p5.js web editor!](https://editor.p5js.org/jac237/sketches/aK18VbRRq)!
+Check out the live preview with the [p5.js web editor!](https://editor.p5js.org/jac237/sketches/aK18VbRRq)
 
 ## Background
 
