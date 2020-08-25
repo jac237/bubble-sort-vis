@@ -1,4 +1,4 @@
-# Bubble Sort Visualization w/ p5.js
+# Merge Sort Visualization w/ p5.js
 
 ## Preview
 
