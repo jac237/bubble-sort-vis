@@ -1,7 +1,7 @@
 # Merge Sort Visualization w/ p5.js
 
 ## Preview
-
+update
 ![](image)
 Check out the live preview [here](link)!
 
