@@ -25,7 +25,7 @@ const highlightState = 4;
 const helperState2 = 5;
 
 function setup() {
-  createCanvas(800, 700);
+  createCanvas(700, 600);
   totalRects = floor(width / scl);
   rects = new Array(totalRects);
   initRectsArray();
