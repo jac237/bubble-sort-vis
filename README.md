@@ -2,6 +2,9 @@
 
 ## Preview
 
+![](image)
+Check out the live preview [here](link)!
+
 ## Background
 
 ## References
